@@ -12,7 +12,7 @@
                     </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-* My Main OS's
+* My Main OSes
 <p align="center">
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="36" height="36" alt="C" /></a><a href="https://www.microsoft.com/en-gb/windows/get-windows-11?r=1" target="_blank" rel="noreferrer"><img src="https://www.servis-repas.cz/user/categories/orig/windows-11-icon.png" width="36" height="36" alt="Python" /></a></p>
                     
