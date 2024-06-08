@@ -1,7 +1,7 @@
-Hi 👋 My name is Mr Lavan
+Hi My name is Mr Lavan
 =========================
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width = "500"/>
 </div>
 
 
