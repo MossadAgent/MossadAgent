@@ -4,10 +4,6 @@ Hi 👋 My name is Mr Lavan
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif"/>
 </div>
 
-<div id="notheader" align="center">
- <img src="https://s6.ezgif.com/tmp/ezgif-6-c3f21c8df4.gif"/>
-</div>
-
 
 
 
