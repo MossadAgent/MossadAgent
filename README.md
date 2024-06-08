@@ -1,7 +1,7 @@
 Hi 👋 My name is Mr Lavan
 =========================
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://s6.ezgif.com/tmp/ezgif-6-c3f21c8df4.gif)" width="100"/>
 </div>
 
 
