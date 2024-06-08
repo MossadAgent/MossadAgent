@@ -14,8 +14,8 @@
 
 * My Main OSes
 <p align="center">
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="36" height="36" alt="C" /></a><a href="https://www.microsoft.com/en-gb/windows/get-windows-11?r=1" target="_blank" rel="noreferrer"><img src="https://www.servis-repas.cz/user/categories/orig/windows-11-icon.png" width="36" height="36" alt="Python" /></a></p>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="36" height="36" alt="Arch" /></a><a href="https://www.microsoft.com/en-gb/windows/get-windows-11?r=1" target="_blank" rel="noreferrer"><img src="https://www.servis-repas.cz/user/categories/orig/windows-11-icon.png" width="36" height="36" alt="Win11" /></a></p>
 
 * languages that I know or learn
 <p align="center">
-<a href="https://en.wikipedia.org/wiki/Germany" target="_blank" rel="noreferrer"><img src="https://wallpapercave.com/wp/soKObwj.png" width="36" height="36" alt="C" /></a><a href="https://en.wikipedia.org/wiki/Israel" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/000/390/716/original/vector-illustration-of-israel-flag.jpg" width="36" height="36" alt="Python" /></a></p>
+<a href="https://en.wikipedia.org/wiki/Germany" target="_blank" rel="noreferrer"><img src="https://wallpapercave.com/wp/soKObwj.png" width="72" height="36" alt="Germany" /></a><a href="https://en.wikipedia.org/wiki/Israel" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/000/390/716/original/vector-illustration-of-israel-flag.jpg" width="72" height="36" alt="Israel" /></a></p>
