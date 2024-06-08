@@ -1,7 +1,7 @@
 Hi 👋 My name is Mr Lavan
 =========================
 <div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://s6.ezgif.com/tmp/ezgif-6-c3f21c8df4.gif)](https://cdn.discordapp.com/attachments/888125888724607057/1248876453018206228/tenor-ezgif.com-gif-maker.gif?ex=66654255&is=6663f0d5&hm=0f41ebbaa530e08fb187317b9581edd5dbdd949574236dde5529550fd0af66e5&)" width="100"/>
+  <img src="https://s6.ezgif.com/tmp/ezgif-6-c3f21c8df4.gif" width="100"/>
 </div>
 
 
