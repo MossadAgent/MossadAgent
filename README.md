@@ -18,4 +18,4 @@
 
 * languages that I know or learn
 <p align="center">
-<a href="https://en.wikipedia.org/wiki/Germany" target="_blank" rel="noreferrer"><img src="https://wallpapercave.com/wp/soKObwj.png" width="50" height="36" alt="Germany" /></a><a href="https://en.wikipedia.org/wiki/Israel" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/000/390/716/original/vector-illustration-of-israel-flag.jpg" width="50" height="36" alt="Israel" /></a></p>
+<a href="https://en.wikipedia.org/wiki/Germany" target="_blank" rel="noreferrer"><img src="https://wallpapercave.com/wp/soKObwj.png" width="56" height="36" alt="Germany" /></a><a href="https://en.wikipedia.org/wiki/Israel" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/000/390/716/original/vector-illustration-of-israel-flag.jpg" width="56" height="36" alt="Israel" /></a></p>
