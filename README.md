@@ -9,9 +9,9 @@
 └─$ neofetch
                   ▟█▙                         MossadAgent
                  ▟███▙                       -------------
-                ▟█████▙                     OSes: Win11(mainly), Arch.
-               ▟███████▙                    PLs: Python, C, Cpp, Html&&Css.
-               ▔▀▜██████▙    
+                ▟█████▙                      
+               ▟███████▙                     OSes: Win11(mainly), Arch.
+               ▔▀▜██████▙                    PLs: Python, C, Cpp, Html&&Css.
              ▟██▅▂ █████▙                  
             ▟█████████████▙                 
            ▟███████████████▙
