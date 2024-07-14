@@ -33,7 +33,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-## Skills I Know or Am Learning
+##                                                           Skills I Know or Am Learning
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://pngimg.com/uploads/letter_c/letter_c_PNG22.png" width="36" height="36" alt="C" />
