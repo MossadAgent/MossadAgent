@@ -58,10 +58,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
 ## • My Main Operating Systems
 <p align="center">
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
@@ -71,10 +67,6 @@
     <img src="https://www.servis-repas.cz/user/categories/orig/windows-11-icon.png" width="36" height="36" alt="Windows 11" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
 ## • Languages I Know or Am Learning
 <p align="center">
@@ -91,7 +83,3 @@
     <img src="https://i.redd.it/4embhj1c8hd71.jpg" width="60" height="36" alt="Paleo-Hebrew" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
