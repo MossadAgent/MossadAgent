@@ -8,9 +8,9 @@
 ┌──(root@MossadAgent)-[~/]
 └─$ neofetch
                   ▟█▙                         M̲o̲s̲s̲a̲d̲A̲g̲e̲n̲t̲
-                 ▟███▙                       OSes: Win11(mainly), Arch.
-                ▟█████▙                      PLs: Python, C, Cpp, Html&&Css.
-               ▟███████▙                     
+                 ▟███▙                       
+                ▟█████▙                      OSes: Win11(mainly), Arch.
+               ▟███████▙                     PLs: Python, C, Cpp, Html&&Css.
                ▔▀▜██████▙                    
              ▟██▅▂ █████▙                  
             ▟█████████████▙                 
