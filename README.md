@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=printf%2C+("Hello+World").;Welcome+to+my+Github+profile!+)]
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+mono&pause=1000&color=FFFFFF&width=435&separator=%3C&lines=printf(%22Welcome+to+my+profile!%22);" alt="Typing SVG" /></a>
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
