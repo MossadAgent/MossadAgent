@@ -58,5 +58,4 @@
   <a href="https://en.wikipedia.org/wiki/German_language" target="_blank" rel="noreferrer"><img src="https://wallpapercave.com/wp/soKObwj.png" width="60" height="36" alt="German" /></a>
   <a href="https://en.wikipedia.org/wiki/Hebrew_language" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/000/390/716/original/vector-illustration-of-israel-flag.jpg" width="60" height="36" alt="Hebrew" /></a>
   <a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noreferrer"><img src="https://cdn.wallpapersafari.com/51/1/nVeBg3.jpg" width="60" height="36" alt="English" /></a>
-  <a href="https://en.wikipedia.org/wiki/Paleo-Hebrew_alphabet" target="_blank" rel="noreferrer"><img src="https://i.redd.it/4embhj1c8hd71.jpg" width="60" height="36" alt="Paleo-Hebrew" /></a>
 </p>
