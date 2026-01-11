@@ -15,7 +15,7 @@
     ,g$$$$$$$$$$$$$$$P.       --------
   ,g$$P"     """Y$$.".        OS: Debian GNU/Linux forky/sid x86_64
  ,$$P'              `$$$.     WM: i3
-',$$P       ,ggs.     `$$b:   PLs: Python, C(Main), Cpp, etc.
+',$$P       ,ggs.     `$$b:   PLs: Python, C, Cpp, Rust(Main), etc.
 `d$$'     ,$P"'   .    $$$    
  $$P      d$'     ,    $$P    
  $$:      $$.   -    ,d$$'    
