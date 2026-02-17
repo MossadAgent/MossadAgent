@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+mono&pause=1000&color=FFFFFF&width=435&separator=%3C&lines=printf(%22Welcome+to+my+profile!%22);" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22Welcome+to+my+profile%22;" alt="Typing SVG" /></a>
 
 
 
@@ -7,26 +6,13 @@
 > ** **
 
 ```java
-┌──(root@Mossad@Agent)-[~/]
-└─$ neofetch
-
-
-       _,met$$$$$gg.          Mossad@Agent
-    ,g$$$$$$$$$$$$$$$P.       --------
-  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux forky/sid x86_64
- ,$$P'              `$$$.     WM: i3
-',$$P       ,ggs.     `$$b:   PLs: Python, C, Cpp, Rust(Main), etc.
-`d$$'     ,$P"'   .    $$$    
- $$P      d$'     ,    $$P    
- $$:      $$.   -    ,d$$'    
- $$;      Y$b._   _,d$P'      
- Y$$.    `.`"Y$$$$P"'         
- `$$b      "-.__              
-  `Y$$                        
-   `Y$$.                      
-     `$$b.                    
-       `Y$$b.                 
-          `"Y$b._             
+      /\         mr@lavan
+     /  \        ────────
+    /\   \       OS: ARCH
+   /      \      WM: niri
+  /   ,,   \     PLs: C++, C, Py, C#, ASM8086, Rust(learning)
+ /   |  |  -\    
+/_-''    ''-_\   
               `"""
 
 ```
